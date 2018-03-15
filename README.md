@@ -8,13 +8,13 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 ## Experience
 
-###Time to complete project: 
+### Time to complete project: 
 The project was more time consuming than I thought. Most of the time was spent on 3d objects positioning, materials adjusting, finding out how to make the globe rotate as it is required and light baking. The more I increased the light baking resolution, I got brighter effects of light sources in the scene, but the time of baking also increased significantly.
 
-###What I liked: 
+### What I liked: 
 I enjoyed building my own scene starting from adding 3d objects to adjusting cameras and lights settings. I liked to expreiment with lights properties (brightness, range, angle, etc.) to see how they changed the look of the apartment. 
 
-###What was challenging: 
+### What was challenging: 
 I ran into a couple of issues that I was able to resolve: 
 1. Missing Prefab issue (as I know now renaming assets should be done only inside Unity)
 2. Materials are not shown correctly (light baking solved the problem)
